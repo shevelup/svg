@@ -1,0 +1,40 @@
+.design-svg svg path{
+	/*fill:transparent;*/
+fill:blue;
+}
+.container1{
+ width: 300px;
+ display:flex;
+ flex-direction: column;
+ justify-content: space-around;
+ background-color: #CCCCCC;
+ margin: auto;
+ align-self:center;
+}
+
+#icon-github svg path{
+fill:red;
+}
+#icon-github svg path{
+fill:red;
+
+}
+#evenodd svg path{
+stroke-width:3%;
+fill:none;
+stroke:#ffff;
+}
+.icon-twitter, .icon-github {
+height: 25%;
+margin:auto;
+
+}
+.evenodd{
+height: 50%;
+display:flex;
+margin:auto;
+}
+
+
+
+
